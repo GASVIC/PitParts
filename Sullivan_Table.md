@@ -1,5 +1,5 @@
 ---
-layout: Main.html
+layout: Main
 title: Pit Parts Australia
 ---
 
