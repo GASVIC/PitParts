@@ -9,7 +9,7 @@ title: Pit Parts Australia
 
 This is the new home of the **D'Oyly Carte Editions** of the **Gilbert & Sullivan Original Orchestrations.**
 
-What has changed?
+###What has changed?
 
 Mr Brian Clough, the previous operator of **Pit Parts Hiring Agency** on behalf of the D'Oyly Carte Opera Trust Ltd (UK), retired in late 2015, when he arranged to transfer the agency to the Gilbert & Sullivan Society of Victoria.
 
@@ -17,7 +17,7 @@ The Society, which performs the works of Gilbert and Sullivan via **Gilbert & Su
 
 In this site you will find:
 
-* a table of Sullivan's original orchestrations for each of the operas
+* a table of [Sullivan's original orchestrations](Sullivan_Table) for each of the operas
 * Pricing, Terms & Conditions of hire
 * Procedure for hire and
 * some points about caring for the scores
