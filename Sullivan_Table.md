@@ -39,7 +39,7 @@ Sullivan's horn writing is very important and constant, and the instruments list
 
 ###Anomalies
 
-Broadly speaking the operas have come down to uswithout many changes. There are however, some anomalies which can confuse those unfamiliar with the repertoire.
+Broadly speaking the operas have come down to us without many changes. There are however, some anomalies which can confuse those unfamiliar with the repertoire.
 
 **Cox & Box:** minor cuts and extensions in the orchestral parts which are at odds with the vocal score
 
