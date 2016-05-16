@@ -2,11 +2,11 @@
 title: Pit Parts Australia
 ---
 
-###Sullivan's Original Orchestrations 
+### Sullivan's Original Orchestrations 
 
 |:----------------|:----------:|:--------:|:--------:|:---:|:---:|:--:|:------:|:-------:|:-----:|:-----:|:---------:|:--------:|:--------------:|
 |Opera            |Lead Violin |1st Violin|2nd Violin|Viola|Cello|Bass|Flute   |Piccolo  |Bassoon|Horn F |Trumpet A&Bb|Trombone |Percussion inc Timpani(2)|
-|-----------------|------------|----------|----------|-----|-----|----|--------|---------|-------|-------|-----------|----------|----------------|
+|-----------------|:------------:|:----------:|:----------:|:-----:|-----:|:----:|:--------:|:---------:|:-------:|:-------:|:-----------:|:----------:|:----------------:|
 |No of Instruments| 1 | 7 | 6 | 4 | 4 | 2 | 2 | 1 | 2 | 2 | 2 | 3 | 1+1 or more|
 |Cox & Box        | 1 | 7 | 6 | 4 | 4 | 2 | 1 | 1 | 1 | 2 | 2 | 2 | 1+1 or more|
 |Trial By Jury    | 1 | 7 | 6 | 4 | 4 | 2 | 2 | 1 | 1 | 2 | 2 | 2 | 1+1 or more|
@@ -26,7 +26,7 @@ title: Pit Parts Australia
 |Rose of Persia   | 1 | 7 | 6 | 4 | 4 | 2 | 2 | 1 | 1 | 2 | 2 | 2 | 1+1 or more|
 |-----------------|------------|----------|----------|-----|-----|----|--------|---------|-------|-------|-----------|----------|----------------|
 
-###Sullivan's Orchestra 
+### Sullivan's Orchestra 
 
 This comprised 37 to 39 musicians. The wind, brass and percussion listed above plus strings deployed as shown in the table.
 
@@ -37,7 +37,7 @@ If unable to meet the requirements of the full orchestra, drop instruments in te
 
 Sullivan's horn writing is very important and constant, and the instruments listed should be dropped before either horn. Normally the Brass are used to reinforcethe tuttis and rarely provide essential line. There are exceptions, however, where the 3rd trombone in Yeomen is remarkably effective, the solo trumpet in Patience is important, and in the last four operas the 2nd bassoon is almost as important as the 2nd horn.
 
-###Anomalies
+### Anomalies
 
 Broadly speaking the operas have come down to us without many changes. There are however, some anomalies which can confuse those unfamiliar with the repertoire.
 
