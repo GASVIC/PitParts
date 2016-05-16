@@ -4,7 +4,7 @@ title: Pit Parts Australia
 
 ##Pit Parts - Gilbert & Sullivan Orchestrations
 
-Hire Process:
+###Hire Process:
 
 1. Review the table of orchestrations
 2. Select the show you are planning, and review the instruments
