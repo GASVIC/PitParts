@@ -15,11 +15,13 @@ Mr Brian Clough, the previous operator of **Pit Parts Hiring Agency** on behalf 
 
 The Society, which performs the works of Gilbert and Sullivan via **Gilbert & Sullivan Opera Victoria**, was happy to take on the role, in order to preserve and promote their works for the enduring benefit and enjoyment of light opera lovers in this region.
 
+###What is here?
+
 In this site you will find:
 
 * a table of [Sullivan's original orchestrations](Sullivan_Table) for each of the operas
-* Pricing, Terms & Conditions of hire
-* Procedure for hire and
-* some points about caring for the scores
+* [Pricing](PitParts_Prices), [Terms & Conditions of hire](PitParts_Terms)
+* [Procedure for hire](Hire_Process) and
+* some points about [caring for the scores](Score_care)
 
-We also have an enquiry form which will enable you to request parts for your performances.
+We also have an [enquiry form](PitParts_Enquiry) which will enable you to request parts for your performances.
