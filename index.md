@@ -1,21 +1,20 @@
 ---
-layout: index.html
+layout: Main.html
 title: Pit Parts Australia
 ---
 
 
-
-##Welcome to Pit Parts in Australia and the Pacific
+## Welcome to Pit Parts in Australia and the Pacific
 
 This is the new home of the **D'Oyly Carte Editions** of the **Gilbert & Sullivan Original Orchestrations.**
 
-###What has changed?
+### What has changed?
 
 Mr Brian Clough, the previous operator of **Pit Parts Hiring Agency** on behalf of the D'Oyly Carte Opera Trust Ltd (UK), retired in late 2015, when he arranged to transfer the agency to the Gilbert & Sullivan Society of Victoria.
 
 The Society, which performs the works of Gilbert and Sullivan via **Gilbert & Sullivan Opera Victoria**, was happy to take on the role, in order to preserve and promote their works for the enduring benefit and enjoyment of light opera lovers in this region.
 
-###What is here?
+### What is here?
 
 In this site you will find:
 
