@@ -1,4 +1,9 @@
-# Pit Parts Australia
+---
+layout: index.html
+title: Pit Parts Australia
+---
+
+
 
 ##Welcome to Pit Parts in Australia and the Pacific
 
