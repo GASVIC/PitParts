@@ -1,6 +1,6 @@
 ---
 layout: Main
-title: Pit Parts Australia
+title: Pit Parts Australia - Sullivan's Orchestra
 ---
 
 ### Sullivan's Original Orchestrations

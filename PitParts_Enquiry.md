@@ -1,8 +1,8 @@
 ---
-title: Pit Parts Australia
+title: Pit Parts Enquiries
 ---
 
-##Pit Parts - Gilbert & Sullivan Orchestrations
+## Pit Parts - Gilbert & Sullivan Orchestrations
 
-Contact us via email: [Pit Parts Enquiries](mailto:enquiries@gspitparts.com)
+Download this [**Application form (MS-Word .doc 37Kb)**](PitPartsApplication_JMA_20160517.doc), complete it and return it via email: [Pit Parts Enquiries](mailto:enquiries@gspitparts.com)
 for further information.

@@ -1,10 +1,10 @@
 ---
-title: Pit Parts Australia
+title: Pit Parts Terms
 ---
 
-##Pit Parts - Gilbert & Sullivan Orchestrations
+## Pit Parts - Gilbert & Sullivan Orchestrations
 
-###Terms & Conditions of Hire 
+### Terms & Conditions of Hire 
 
 Full details are available in our explanatory leaflet.
 

@@ -1,8 +1,8 @@
 ---
-title: Pit Parts Australia
+title: Pit Parts Pricing
 ---
 
-##Pit Parts - Gilbert & Sullivan Orchestrations
+## Pit Parts - Gilbert & Sullivan Orchestrations
 
 Prices are currently being held at the same rates as previously charged.
 
