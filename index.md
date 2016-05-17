@@ -23,4 +23,5 @@ In this site you will find:
 * [Procedure for hire](Hire_Process) and
 * some points about [caring for the scores](Score_care)
 
-We also have an [enquiry form](PitParts_Enquiry) which will enable you to request parts for your performances.
+To request parts for your performances, please download this [**Application form (MS-Word .doc 37Kb)**](PitPartsApplication_JMA_20160517.doc), complete it and return it via email to: [Pit Parts Enquiries](mailto:enquiries@gspitparts.com)
+for further information.
