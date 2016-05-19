@@ -6,4 +6,4 @@ title: Pit Parts Terms
 
 ### Terms & Conditions of Hire 
 
-Full details are available in our explanatory leaflet, which will be supplied with our quote when you submit your enquiry [index] (refer to the link on our home page)
+Full details are available in our explanatory leaflet, which will be supplied with our quote when you submit your enquiry [index.html] (refer to the link on our home page)
