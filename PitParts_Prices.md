@@ -4,13 +4,8 @@ title: Pit Parts Pricing
 
 ## Pit Parts - Gilbert & Sullivan Orchestrations
 
-Prices are currently being held at the same rates as previously charged.
+Prices are currently being held at the same rates as previously charged. However, prices are subject to alteration without notice.
 
-However, hirers should note that in accordance with modern business practice, prices are subject to alteration without notice.
-
- 
-
-Pit Parts - D'Oyly Carte Orchestrations
 
 ### DEPOSIT: 
 AUD280 payable with Application, prior to despatch of music. Deposit refundable in full or part after return of the music and payment of the hire account. Do not deduct from the hire fee payment.
