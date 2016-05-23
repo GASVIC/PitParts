@@ -1,10 +1,11 @@
 ---
+layout: Main
 title: Pit Parts Pricing
 ---
 
-## Pit Parts - Gilbert & Sullivan Orchestrations
+### Pit Parts - Gilbert & Sullivan Orchestrations
 
-Prices are currently being held at the same rates as previously charged. However, prices are subject to alteration without notice.
+Prices are currently being held at the same level as previously operated. However, prices are subject to alteration without notice.
 
 
 ### DEPOSIT: 

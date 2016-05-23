@@ -1,4 +1,5 @@
 ---
+layout: Main
 title: Pit Parts Terms and Conditions
 ---
 
@@ -40,13 +41,13 @@ and the deposit held by PIT PARTS on behalf of the Hirer will be forfeited.
 
 1. The programme for performance (for which the Parts are hired) must include the following:
 
-```
-       Original G & S Orchestral Parts for The D'Oyly Carte Edition
-       on hire from PIT PARTS, sole agent in Australasia
-       c/- the Gilbert & Sullivan Society of Victoria Inc
-       for The D'Oyly Carte Trust Ltd.
-       Email: enquiries@gspitparts.com
-```
+
+> Original G & S Orchestral Parts for The D'Oyly Carte Edition
+> on hire from PIT PARTS, sole agent in Australasia
+> c/- the Gilbert & Sullivan Society of Victoria Inc
+> for The D'Oyly Carte Trust Ltd.
+> Email: enquiries@gspitparts.com
+
 
 Printed in close proximity to the orchestral acknowledgments or Musical Items. A copy of the programme
 must be forwarded immediately to the PIT PARTS agency.
