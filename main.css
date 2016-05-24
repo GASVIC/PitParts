@@ -8,7 +8,7 @@ body {
 	margin: 15px; padding: 10px;
 	background-color: black;
 
-	background: #ffffcc;
+	background: #339966; /* softened green */
 	font: 16px "Garamond" "Georgia" "Times" serif
 /* font-family: serif;
 font-size: 16px;
@@ -33,14 +33,14 @@ td, th {
 
 h1,h2 {
 	text-align: center;
-	margin: 0; padding: 0;
+	margin: 0; padding: 5;
 	font-family: 'Limelight', sans-serif;
 	font: 14px/150% 
 }
 
 h3 {
 	text-align: left;
-	margin: 0; padding: 0;
+	margin: 0; padding: 3;
 	font-family: 'Limelight', sans-serif;
 	font: 12px/120% 
 }
@@ -73,7 +73,6 @@ display: block;
 float: left;
 }
 #menu ul li a {
-color: #fff;
 padding: 0 10px;
 text-decoration: none;
 font-weight: 600;
@@ -89,7 +88,7 @@ text-decoration: underline;
 
 #menu .current {
     font-size: 1em;
-	background: #66ccff;
+	background: #ff6699; /* soft burgundy */
 }
 
 /* End static menu for desktop */
