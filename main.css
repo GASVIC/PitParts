@@ -65,6 +65,7 @@ border-bottom: navy solid medium;
 
 }
 #menu ul {
+color: #ffff99; /* soft sand 80% white base colour all menus */
 padding-left: 24px;
 list-style-type: none;
 }
@@ -88,7 +89,7 @@ text-decoration: underline;
 
 #menu .current {
     font-size: 1em;
-	background: #ffff99; /* soft sand 80% white */
+	background: #66cc97; /* soft green with 60% white: active page merges to bg */
 }
 
 /* End static menu for desktop */
