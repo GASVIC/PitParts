@@ -1,3 +1,9 @@
+* {
+    padding: 0;
+    margin: 0;
+} 
+
+
 body {
 	margin: 5; padding: 0;
 	background-color: black;
@@ -38,4 +44,99 @@ h3 {
 
 /*
 font: 16px/125% "Helvetica" "Verdana" "Liberation Sans" sans-serif
+*/
+
+/* Static Menu for desktop only
+
+#menu {
+height: 60px;
+line-height: 60px;
+/* background: #0000FF;  deep blue from PWMU site */
+/* background: #431a54;  purple as shadow of cross */
+/* background: #18596B;  grey-green of welcome banner */
+/* background: #D2141E;  Red for Christmas 2015 */ 
+/* background: #700000;  /* Burgundy 
+
+font-size: 1.25em;
+
+}
+#menu ul {
+padding-left: 24px;
+list-style-type: none;
+}
+#menu ul li {
+display: block;
+float: left;
+}
+#menu ul li a {
+color: #fff;
+padding: 0 10px;
+text-decoration: none;
+font-weight: 600;
+}
+#menu ul li a:hover {
+color: #00FF00;
+text-decoration: underline;
+}
+#menu ul li a:visited {
+color: #FF00FF;
+text-decoration: underline;
+}
+
+#menu .current {
+    font-size: 1em;
+	background: #2B448C;
+}
+
+End static menu for desktop */
+
+
+/* footer stuff for eventual W3C certification
+
+#footer {
+text-align: center;
+width: 95%;
+/* width: 960px; 
+color: #666;
+font-size: 0.6875em;
+}
+#footer  a { color: #666; }
+
+*/
+
+/* Link stuff
+
+/* unvisited link 
+a:link {
+    /* color: #0005F7; 
+	color; #0000EE;
+}
+
+/* visited link 
+a:visited {
+    /* color: #FF00FF; 
+	color; #551A8B;
+}
+
+/* mouse over link 
+a:hover {
+    color: #00FF00;
+}
+
+/* selected link 
+a:active {
+   
+}
+
+ End of link stuff */
+ 
+/* img { border: none; } 
+img { 
+    border: none; 
+    width: 100%;
+    height: auto;
+    
+}
+
+a { color: #0F0FFF; }
 */
