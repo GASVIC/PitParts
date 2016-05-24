@@ -4,7 +4,7 @@ title: Pit Parts Australia
 ---
 
 
-## Welcome to Pit Parts in Australia and the Pacific
+## Welcome to Pit Parts in Australia, South East Asia and the Pacific
 
 This is the new home of the **D'Oyly Carte Editions** of the **Gilbert & Sullivan Original Orchestrations.**
 

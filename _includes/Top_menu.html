@@ -1,13 +1,15 @@
 <!DOCTYPE html>
-<html>
+<html xmlns="http://www.w3.org/1999/xhtml">
 <head>
-<title>{{page.title}}</title>
+<title>{{include.title}}</title>
 <meta name="language" content="English">
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<link rel="stylesheet" href="main.css">
+<link rel="stylesheet" type="text/css" href="main.css" media="screen">
 <link href="//fonts.googleapis.com/css?family=Limelight&subset=latin" rel="stylesheet" type="text/css">
 </head>
 <body>
+
+<div id="wrap"> 
 
 <div id="header">
 
@@ -26,9 +28,3 @@
 <li>{% include a href="/Sullivan_Table.html"%}Sullivan's Orchestrations</a></li>
 </ul>
 </div>
-
-
-{{content}}
-
-</body>
-</html>
