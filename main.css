@@ -5,7 +5,7 @@
 
 
 body {
-	margin: 5; padding: 0;
+	margin: 5; padding: 10;
 	background-color: black;
 
 background: #ffff99;
@@ -91,18 +91,16 @@ text-decoration: underline;
 /* End static menu for desktop */
 
 
-/* footer stuff for eventual W3C certification
+/* footer stuff for eventual W3C certification */
 
 #footer {
 text-align: center;
 width: 95%;
-/* width: 960px; 
+/* width: 960px; */
 color: #666;
-font-size: 0.6875em;
+font-size: 0.6875em; 
 }
 #footer  a { color: #666; }
-
-*/
 
 /* Link stuff
 
