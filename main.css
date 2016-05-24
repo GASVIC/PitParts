@@ -46,7 +46,7 @@ h3 {
 font: 16px/125% "Helvetica" "Verdana" "Liberation Sans" sans-serif
 */
 
-/* Static Menu for desktop only
+/* Static Menu for desktop only */
 
 #menu {
 height: 60px;
@@ -55,7 +55,7 @@ line-height: 60px;
 /* background: #431a54;  purple as shadow of cross */
 /* background: #18596B;  grey-green of welcome banner */
 /* background: #D2141E;  Red for Christmas 2015 */ 
-/* background: #700000;  /* Burgundy 
+/* background: #700000;  /* Burgundy */
 
 font-size: 1.25em;
 
@@ -88,7 +88,7 @@ text-decoration: underline;
 	background: #2B448C;
 }
 
-End static menu for desktop */
+/* End static menu for desktop */
 
 
 /* footer stuff for eventual W3C certification
@@ -106,31 +106,31 @@ font-size: 0.6875em;
 
 /* Link stuff
 
-/* unvisited link 
+/* unvisited link */
 a:link {
-    /* color: #0005F7; 
+    /* color: #0005F7; */
 	color; #0000EE;
 }
 
-/* visited link 
+/* visited link */
 a:visited {
-    /* color: #FF00FF; 
+    /* color: #FF00FF; */
 	color; #551A8B;
 }
 
-/* mouse over link 
+/* mouse over link */
 a:hover {
     color: #00FF00;
 }
 
-/* selected link 
+/* selected link */
 a:active {
    
 }
 
- End of link stuff */
+/* End of link stuff */
  
-/* img { border: none; } 
+/* img { border: none; } */
 img { 
     border: none; 
     width: 100%;
@@ -139,4 +139,3 @@ img {
 }
 
 a { color: #0F0FFF; }
-*/
