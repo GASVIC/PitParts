@@ -8,7 +8,7 @@ body {
 	margin: 15px; padding: 10px;
 	background-color: black;
 
-background: #ffff99;
+background: #ffffcc;
 font: 16px/125% "Garamond" "Georgia" "Times" serif
 /* font-family: serif;
 font-size: 16px;
@@ -88,22 +88,10 @@ text-decoration: underline;
 
 #menu .current {
     font-size: 1em;
-	background: #2B448C;
+	background: #66ccff;
 }
 
 /* End static menu for desktop */
-
-
-/* footer stuff for eventual W3C certification */
-
-#footer {
-text-align: center;
-width: 95%;
-/* width: 960px; */
-color: #666;
-font-size: 0.6875em; 
-}
-#footer  a { color: #666; }
 
 /* Link stuff
 
@@ -130,6 +118,21 @@ a:active {
 }
 
 /* End of link stuff */
+ 
+
+
+/* footer stuff for eventual W3C certification */
+
+#footer {
+text-align: center;
+border-top: navy solid medium; 
+width: 95%;
+/* width: 960px; */
+color: #666;
+font-size: 0.6875em; 
+}
+#footer  a { color: #666; }
+ 
  
 /* img { border: none; } */
 img { 
