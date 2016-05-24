@@ -8,7 +8,7 @@ body {
 	margin: 15px; padding: 10px;
 	background-color: black;
 
-	background: #339966; /* softened green */
+	background: #66cc97; /* soft green with 60% white */
 	font: 16px "Garamond" "Georgia" "Times" serif
 /* font-family: serif;
 font-size: 16px;
@@ -88,7 +88,7 @@ text-decoration: underline;
 
 #menu .current {
     font-size: 1em;
-	background: #ff6699; /* soft burgundy */
+	background: #ffff99; /* soft sand 80% white */
 }
 
 /* End static menu for desktop */
