@@ -8,12 +8,12 @@ body {
 	margin: 15px; padding: 10px;
 	background-color: black;
 
-background: #ffffcc;
-font: 16px/125% "Garamond" "Georgia" "Times" serif
+	background: #ffffcc;
+	font: 16px "Garamond" "Georgia" "Times" serif
 /* font-family: serif;
 font-size: 16px;
 line-height: 20px; */
-color: #333333;
+	color: #000000;
 
 }
 
@@ -35,14 +35,14 @@ h1,h2 {
 	text-align: center;
 	margin: 0; padding: 0;
 	font-family: 'Limelight', sans-serif;
-	font: 14px/1250% 
+	font: 14px/150% 
 }
 
 h3 {
 	text-align: left;
 	margin: 0; padding: 0;
 	font-family: 'Limelight', sans-serif;
-	font: 12px/110% 
+	font: 12px/120% 
 }
 
 /*
@@ -130,9 +130,9 @@ border-top: navy solid medium;
 width: 100%;
 /* width: 960px; */
 color: #666;
-font-size: 0.6875em; 
+font-size: 1em; 
 }
-#footer  a { color: #666; }
+#footer  a { color: #000000; }
  
  
 /* img { border: none; } */
