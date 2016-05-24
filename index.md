@@ -19,9 +19,21 @@ The Society, which performs the works of Gilbert and Sullivan via **Gilbert & Su
 In this site you will find:
 
 * a table of [Sullivan's original orchestrations](Sullivan_Table) for each of the operas
-* [Pricing](PitParts_Prices), [Terms & Conditions of hire](PitParts_Terms)
-* [Procedure for hire](Hire_Process) and
+* [Pricing](PitParts_Prices)
+* [Terms & Conditions of hire](PitParts_Terms) and
 * some points about [caring for the scores](Score_care)
 
 To request parts for your performances, please download this [**Application form (MS-Word .doc 37Kb)**](PitPartsApplication_JMA_20160517.doc), complete it and return it via email to: [Pit Parts Enquiries](mailto:enquiries@gspitparts.com)
 for further information.
+
+### The Hire Process:
+
+1. Review the table of orchestrations
+2. Select the show you are planning, and review the instruments
+3. Choose the parts, and list them in your application [refer to the link on our home page](index)
+4. We will advise on availability, and supply current pricing in a quote, and an initial invoice for deposit
+5. When you are ready to proceed, lodge payment of the deposit and return the order form
+6. We will then ship the parts (shipping cost will also be quoted)
+7. On completion of the hire, return the parts (shipping to be at your expense)
+8. We will render a final invoice, and adjust for the deposit already paid
+9. Terms and Conditions are shown in the brochure accompanying the quote as well as in this website
