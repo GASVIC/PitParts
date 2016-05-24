@@ -35,14 +35,14 @@ h1,h2 {
 	text-align: center;
 	margin: 0; padding: 0;
 	font-family: 'Limelight', sans-serif;
-	font: 16px/125% 
+	font: 14px/1250% 
 }
 
 h3 {
 	text-align: left;
 	margin: 0; padding: 0;
 	font-family: 'Limelight', sans-serif;
-	font: 14px/110% 
+	font: 12px/110% 
 }
 
 /*
@@ -61,6 +61,7 @@ line-height: 60px;
 /* background: #700000;  /* Burgundy */
 
 font-size: 1.25em;
+border-bottom: navy solid medium; 
 
 }
 #menu ul {
@@ -126,7 +127,7 @@ a:active {
 #footer {
 text-align: center;
 border-top: navy solid medium; 
-width: 95%;
+width: 100%;
 /* width: 960px; */
 color: #666;
 font-size: 0.6875em; 
