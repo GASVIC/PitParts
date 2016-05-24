@@ -30,7 +30,7 @@ for further information.
 
 1. Review the table of orchestrations
 2. Select the show you are planning, and review the instruments
-3. Choose the parts, and list them in your application [refer to the link on our home page](index)
+3. Choose the parts, and list them in your application
 4. We will advise on availability, and supply current pricing in a quote, and an initial invoice for deposit
 5. When you are ready to proceed, lodge payment of the deposit and return the order form
 6. We will then ship the parts (shipping cost will also be quoted)

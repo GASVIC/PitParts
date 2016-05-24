@@ -59,7 +59,7 @@ line-height: 60px;
 /* background: #18596B;  grey-green of welcome banner */
 /* background: #D2141E;  Red for Christmas 2015 */ 
 /* background: #700000;  /* Burgundy */
-
+padding-bottom: 5px;
 font-size: 1.25em;
 border-bottom: navy solid medium; 
 
@@ -115,7 +115,7 @@ a:hover {
 
 /* selected link */
 a:active {
-   
+	background: #66cc97; /* soft green with 60% white: active page merges to bg */
 }
 
 /* End of link stuff */
