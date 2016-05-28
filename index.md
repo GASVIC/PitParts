@@ -36,4 +36,4 @@ for further information.
 6. We will then ship the parts (forward shipping cost will also be quoted but payable at the end of the hire)
 7. On completion of the hire, return the parts (shipping to be at your expense)
 8. We will render a final invoice for the balance of the hire charges, plus forward shipping to you, plus any charges for restoring damaged or lost scores 
-9. Terms and Conditions are shown in the brochure accompanying our initial quote as well as in this website
+9. Terms and Conditions are shown in the brochure accompanying ourP initial quote as well as in this website
