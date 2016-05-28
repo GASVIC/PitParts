@@ -3,6 +3,13 @@
     margin: 0;
 } 
 
+@font-face {
+    font-family: 'Brittanic';
+    font-style: normal;
+    font-weight: 700;
+    src: local('Brittanic Bold'), url(../font/Brittanic Bold.ttf) format('truetype');
+}
+
 
 body {
 	margin: 15px; padding: 10px;
@@ -11,7 +18,7 @@ body {
 	background: #66cc97; /* soft green with 60% white */
 	font: 16px/130% "Tahoma" "Helvetica"  sans-serif
 	
-/* font-family: serif for text;
+/* font-family: was serif for text; changed to Tahoma sans 28 May 2016
 font-size: 16px;
 line-height: 20px; 
 
@@ -20,7 +27,10 @@ Font family sans for headings
 font-family: 'Limelight', sans-serif;
 font-family:"Britannic Bold";
 font: 16px/125% "Helvetica" "Verdana" "Liberation Sans" sans-serif
+Tried to include Brittanic Bold 28 May 2016
+
 */
+
 	color: #000000;
 
 }
