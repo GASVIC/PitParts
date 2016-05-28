@@ -19,7 +19,7 @@ weekly or part thereof @ AUD25. Music and all material must be returned within s
 This opera only is charged at 50% of the above rate = AUD140 (@ AUD35 per week), and thereafter @ AUD10 per week or part thereof.  
 
 ### HIRE FEE ACCOUNT:
-Forwarded toward the end of the hire period, and must be paid within seven (7) days of final performance. DO NOT deduct the Deposit from the Hire Fee.
+Forwarded toward the end of the hire period, and must be paid within seven (7) days of final performance.
 
 ### FREIGHT CHARGES:
 All Freight Charges are payable by the Hirer, who may nominate the mode of despatch in writing, or you may discuss the matter with us. If post is used it is advisable to use INSURED REGISTERED POST (Value AUD1000), as losses have been experienced in this area. Rates should be
@@ -47,10 +47,11 @@ This score, when hired separately is AUD30 per week with a refundable deposit of
 Copies of Gilbert's original production scripts are available at AUD5 per week, minimum hire is eight (8) weeks.
 
 ### SELECTIONS:
-For a full concert performance set, a deposit of AUD280 (see deposit conditions), plus cost of printing, assembling, binding and handling. Minimum fee conditions apply (see minimum hire).
+For a full concert performance set, an advance of 25%, plus cost of printing, assembling, binding and handling. Minimum fee conditions apply (see minimum hire).
 
 ### INDIVIDUAL NUMBERS FROM ONE OR MORE OPERAS:
 THESE WILL INCLUDE cost of printing, assembling, handling and a Hire Fee of AUD20 per week.
 
 ### ADDITIONAL CHARGES:
-Overdue return of music, after the seven (7) days allowed, will be charged at AUD25 per week or part thereof. A cleaning charge of AUD30 per hour or part, will be applied if deemed necessary after inspecting returned scores.
+* Overdue return of music, after the seven (7) days allowed, will be charged at AUD25 per week or part thereof
+* A cleaning charge of AUD30 per hour or part, will be applied if deemed necessary after inspecting returned scores.
