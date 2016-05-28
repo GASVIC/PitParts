@@ -9,10 +9,19 @@ body {
 	background-color: black;
 
 	background: #66cc97; /* soft green with 60% white */
-	font: 16px "Garamond" "Georgia" "Times" serif
-/* font-family: serif;
+	font: 16px/130% "Tahoma" "Helvetica"  sans-serif
+	
+/* font-family: serif for text;
 font-size: 16px;
-line-height: 20px; */
+line-height: 20px; 
+
+
+Font family sans for headings
+font-family: 'Limelight', sans-serif;
+font-family:"Britannic Bold";
+	src:url("http://www.myfontfree.com/data/54/b/britannic-bold/BRITANIC.TTF");
+font: 16px/125% "Helvetica" "Verdana" "Liberation Sans" sans-serif
+*/
 	color: #000000;
 
 }
@@ -34,20 +43,19 @@ td, th {
 h1,h2 {
 	text-align: center;
 	margin: 0; padding: 5;
-	font-family: 'Limelight', sans-serif;
-	font: 14px/150% 
+	font-family:"Britannic Bold";
+	src:url("http://www.myfontfree.com/data/54/b/britannic-bold/BRITANIC.TTF");
+	font: 14px/180% 
 }
 
 h3 {
 	text-align: left;
 	margin: 0; padding: 3;
-	font-family: 'Limelight', sans-serif;
-	font: 12px/120% 
+	font-family:"Britannic Bold";
+	src:url("http://www.myfontfree.com/data/54/b/britannic-bold/BRITANIC.TTF");
+	font: 12px/150% 
 }
 
-/*
-font: 16px/125% "Helvetica" "Verdana" "Liberation Sans" sans-serif
-*/
 
 /* Static Menu for desktop only */
 
