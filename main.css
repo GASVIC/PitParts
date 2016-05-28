@@ -3,13 +3,6 @@
     margin: 0;
 } 
 
-@font-face {
-    font-family: 'Brittanic';
-    font-style: normal;
-    font-weight: 700;
-    src: local('Brittanic Bold'), url(../font/Brittanic Bold.ttf) format('truetype');
-}
-
 
 body {
 	margin: 15px; padding: 10px;

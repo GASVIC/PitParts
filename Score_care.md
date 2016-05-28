@@ -18,7 +18,7 @@ The Conductor or Orchestra Convener is the Responsible Person for the purposes o
 1. Sets will be sent to you in the best possible condition.
 2. **__All marks made by the hirer must be removed before returning the music.__**
 3. Use ONLY soft lead pencils (2B or more) and erase with Staedtler-Mars plastic erasers or equivalent.
-4. If deemed necessary by Pit Parts, a cleaning charge (see DEDUCTIONS) will be levied after inspection of the returned Parts.
+4. If deemed necessary by Pit Parts, a cleaning charge (see ADDITIONAL CHARGES) will be levied after inspection of the returned Parts.
 
 ### Lost, Mislaid or Damaged Parts
 

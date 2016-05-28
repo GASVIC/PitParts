@@ -5,22 +5,21 @@ title: Pit Parts Pricing
 
 ### Pit Parts - Gilbert & Sullivan Orchestrations
 
-Prices are currently being held at the same level as previously operated. However, prices are subject to alteration without notice.
+Prices are subject to alteration without notice.
 
-
-### DEPOSIT: 
-AUD280 payable with Application, prior to despatch of music. Deposit refundable in full or part after return of the music and payment of the hire account. Do not deduct from the hire fee payment.
+### ADVANCE: 
+25% of total hire charges, payable with Application, prior to despatch of music.
 
 ### MINIMUM HIRE:
-There is a minimum hire of four (4) weeks @ AUD280 (AUD70 per week), thereafter
+There is a minimum hire of four (4) weeks = AUD280 (@ AUD70 per week), thereafter
 weekly or part thereof @ AUD25. Music and all material must be returned within seven
 (7) days of the last performance.
 
+### TRIAL BY JURY
+This opera only is charged at 50% of the above rate = AUD140 (@ AUD35 per week), and thereafter @ AUD10 per week or part thereof.  
+
 ### HIRE FEE ACCOUNT:
 Forwarded toward the end of the hire period, and must be paid within seven (7) days of final performance. DO NOT deduct the Deposit from the Hire Fee.
-
-### HANDLING FEE:
-AUD20
 
 ### FREIGHT CHARGES:
 All Freight Charges are payable by the Hirer, who may nominate the mode of despatch in writing, or you may discuss the matter with us. If post is used it is advisable to use INSURED REGISTERED POST (Value AUD1000), as losses have been experienced in this area. Rates should be
@@ -50,8 +49,8 @@ Copies of Gilbert's original production scripts are available at AUD5 per week, 
 ### SELECTIONS:
 For a full concert performance set, a deposit of AUD280 (see deposit conditions), plus cost of printing, assembling, binding and handling. Minimum fee conditions apply (see minimum hire).
 
-### SINGLE OPERA NUMBERS:
-THESE WILL INCLUDE cost of printing, assembling, handling and a Hire Fee of AUD20 per week, plus a deposit of AUD100 (see deposit conditions), and printed by the copyright owner or their representative.
+### INDIVIDUAL NUMBERS FROM ONE OR MORE OPERAS:
+THESE WILL INCLUDE cost of printing, assembling, handling and a Hire Fee of AUD20 per week.
 
-### DEDUCTIONS:
-Overdue return of music, after the seven (7) days allowed, will be deducted from the Deposit at AUD25 per week or part thereof, this applies to all hirings. A cleaning charge of AUD30 per hour or part, will be deducted from the deposit if deemed necessary.
+### ADDITIONAL CHARGES:
+Overdue return of music, after the seven (7) days allowed, will be charged at AUD25 per week or part thereof. A cleaning charge of AUD30 per hour or part, will be applied if deemed necessary after inspecting returned scores.
