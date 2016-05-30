@@ -9,6 +9,8 @@ Prices are subject to alteration without notice.
   
 ### ADVANCE: 
 25% of total hire charges, payable with Application, prior to despatch of music.
+  
+
 
 ### MINIMUM HIRE:
 * A minimum hire is four (4) weeks @ AUD70 per week = AUD280
@@ -38,7 +40,9 @@ Professional companies usually appear.
 ### MULTIPLE BOOKINGS:
 If for concert or other performances, you wish to hire several different Opera Sets, a rate may be negotiated.  
 
+
 - - - - - - -
+  
 
 ## ADDITIONAL HIRING
 
