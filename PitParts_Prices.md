@@ -28,7 +28,7 @@ This opera only is charged at
 All Freight Charges are payable by the Hirer, who may nominate the mode of despatch in writing, or you may discuss the matter with us. If post is used it is advisable to use INSURED REGISTERED POST (Value AUD1000), as losses have been experienced in this area. Rates should be
 checked with Australia Post, or with your local Post Office if overseas.
 
-### ALL PARCELS MUST BE SECURELY PACKED AGAINST DAMAGE IN TRANSIT.
+#### ALL PARCELS MUST BE SECURELY PACKED AGAINST DAMAGE IN TRANSIT.
 
 ### PROFESSIONAL RATES:
 These are negotiable, although a minimum of AUD200 per week is set in lieu of any such negotiations. This is applicable to all Professional or Semi-Professional companies. 
