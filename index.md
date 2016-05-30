@@ -18,10 +18,10 @@ The Society, which performs the works of Gilbert and Sullivan via **Gilbert & Su
 
 In this site you will find:
 
-* a table of [Sullivan's original orchestrations](Sullivan_Table) for each of the operas
-* [Pricing](PitParts_Prices)
-* [Terms & Conditions of hire](PitParts_Terms) and
-* some points about [caring for the scores](Score_care)
+	* a table of [Sullivan's original orchestrations](Sullivan_Table) for each of the operas
+	* [Pricing](PitParts_Prices)
+	* [Terms & Conditions of hire](PitParts_Terms) and
+	* some points about [caring for the scores](Score_care)
 
 To request parts for your performances, please download this [**Application form (MS-Word .doc 37Kb)**](PitPartsApplication_JMA_20160517.doc), complete it and return it via email to: [Pit Parts Enquiries](mailto:enquiries@gspitparts.com)
 for further information.
