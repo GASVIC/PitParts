@@ -6,7 +6,7 @@ title: Pit Parts Pricing
 ### Pit Parts - Gilbert & Sullivan Orchestrations - Prices
 
 Prices are subject to alteration without notice.
-
+  
 ### ADVANCE: 
 25% of total hire charges, payable with Application, prior to despatch of music.
 
@@ -36,8 +36,9 @@ It is also applicable to any company (amateur or otherwise) performing in a Prof
 Professional companies usually appear.
 
 ### MULTIPLE BOOKINGS:
-If for concert or other performances, you wish to hire several different Opera Sets, a rate may be negotiated.
+If for concert or other performances, you wish to hire several different Opera Sets, a rate may be negotiated.  
 
+- - - - - - -
 ## ADDITIONAL HIRING
 
 ### EXTRA PARTS:
