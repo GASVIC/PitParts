@@ -26,8 +26,6 @@ Tried to include Brittanic Bold 28 May 2016
 
 	font-family: 'Playfair Display SC', serif;
 
-	font-family: 'Marmelad', sans-serif;
-
 	font-family: 'Forum', cursive;
 
 	font-family: 'Alegreya SC', serif;
@@ -61,14 +59,14 @@ td, th {
 h1,h2 {
 	text-align: center;
 	margin: 0; padding: 5;
-	font-family: 'Marmelad', sans-serif;
+	font-family: 'Playfair Display SC', serif;
 	font: 14px/180% 
 }
 
 h3 {
 	text-align: left;
 	margin: 0; padding: 3;
-	font-family: 'Marmelad', sans-serif;
+	font-family: 'Playfair Display SC', serif;
 	font: 12px/150% 
 }
 
