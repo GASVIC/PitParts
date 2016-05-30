@@ -7,7 +7,7 @@
 body {
 	margin: 15px; padding: 10px;
 	/* background-color: black; */
-	font: 16px/150% "Tahoma" "Helvetica"  sans-serif;
+	font: 16px/190% "Tahoma" "Helvetica"  sans-serif;
 	background: #66cc97; /* soft green with 60% white */
 
 	
@@ -61,14 +61,14 @@ h1,h2 {
 	text-align: center;
 	margin: 0; padding: 5;
 	font-family: 'Limelight', sans-serif;
-	font: 14px/220% 
+	font: 14px/120% 
 }
 
 h3 {
 	text-align: left;
 	margin: 0; padding: 3;
 	font-family: 'Limelight', sans-serif;
-	font: 12px/180% 
+	font: 12px/120% 
 }
 
 
