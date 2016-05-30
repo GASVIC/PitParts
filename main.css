@@ -7,7 +7,7 @@
 body {
 	margin: 15px; padding: 10px;
 	background-color: black;
-	font-family: 'Marmelad', sans-serif;
+		font: 16px/130% "Tahoma" "Helvetica"  sans-serif
 	background: #66cc97; /* soft green with 60% white */
 
 	
@@ -35,6 +35,8 @@ Tried to include Brittanic Bold 28 May 2016
 	font-family: 'Chonburi', cursive;
 
 	font-family: 'Abril Fatface', cursive;
+	
+	font-family:"Britannic Bold";
 
 */
 
@@ -66,7 +68,7 @@ h1,h2 {
 h3 {
 	text-align: left;
 	margin: 0; padding: 3;
-	font-family:"Britannic Bold";
+	font-family: 'Marmelad', sans-serif;
 	font: 12px/150% 
 }
 
