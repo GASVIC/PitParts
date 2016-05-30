@@ -39,6 +39,7 @@ Professional companies usually appear.
 If for concert or other performances, you wish to hire several different Opera Sets, a rate may be negotiated.  
 
 - - - - - - -
+
 ## ADDITIONAL HIRING
 
 ### EXTRA PARTS:
