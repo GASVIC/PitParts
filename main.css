@@ -7,9 +7,9 @@
 body {
 	margin: 15px; padding: 10px;
 	background-color: black;
-
+	font-family: 'Marmelad', sans-serif;
 	background: #66cc97; /* soft green with 60% white */
-	font: 16px/130% "Tahoma" "Helvetica"  sans-serif
+
 	
 /* font-family: was serif for text; changed to Tahoma sans 28 May 2016
 font-size: 16px;
@@ -22,18 +22,19 @@ font-family:"Britannic Bold";
 font: 16px/125% "Helvetica" "Verdana" "Liberation Sans" sans-serif
 Tried to include Brittanic Bold 28 May 2016
 
+	font: 16px/130% "Tahoma" "Helvetica"  sans-serif
 
-font-family: 'Playfair Display SC', serif;
+	font-family: 'Playfair Display SC', serif;
 
-font-family: 'Marmelad', sans-serif;
+	font-family: 'Marmelad', sans-serif;
 
-font-family: 'Forum', cursive;
+	font-family: 'Forum', cursive;
 
-font-family: 'Alegreya SC', serif;
+	font-family: 'Alegreya SC', serif;
 
-font-family: 'Chonburi', cursive;
+	font-family: 'Chonburi', cursive;
 
-font-family: 'Abril Fatface', cursive;
+	font-family: 'Abril Fatface', cursive;
 
 */
 
