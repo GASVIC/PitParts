@@ -7,7 +7,7 @@
 body {
 	margin: 15px; padding: 10px;
 	/* background-color: black; */
-	font: 16px/190% "Tahoma" "Helvetica"  sans-serif;
+	font: 14px/180% "Tahoma" "Helvetica"  sans-serif;
 	background: #66cc97; /* soft green with 60% white */
 
 	
@@ -61,14 +61,14 @@ h1,h2 {
 	text-align: center;
 	margin: 0; padding: 5;
 	font-family: 'Limelight', sans-serif;
-	font: 14px/250% 
+	font: 20px/250% 
 }
 
 h3 {
 	text-align: left;
 	margin: 0; padding: 3;
 	font-family: 'Limelight', sans-serif;
-	font: 12px/200% 
+	font: 18px/200% 
 }
 
 
@@ -111,8 +111,8 @@ text-decoration: underline;
 }
 
 #menu .current {
-    font-size: 1em;
-	background: #66cc97; /* soft green with 60% white: active page merges to bg */
+    font-size: 1.5em;
+	background: #66cc97; /* soft green with 60% white: active page matches main background */
 }
 
 /* End static menu for desktop */
