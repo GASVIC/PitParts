@@ -7,14 +7,16 @@
 body {
 	margin: 15px; padding: 10px;
 	/* background-color: black; */
-	font: 16px/130% "Tahoma" "Helvetica"  sans-serif;
+	font: 16px/150% "Tahoma" "Helvetica"  sans-serif;
 	background: #66cc97; /* soft green with 60% white */
 
 	
 /* font-family: was serif for text; changed to Tahoma sans 28 May 2016
 font-size: 16px;
 line-height: 20px; 
-
+Default line-height is approx 110-120%
+So headings need to be about 200-220%
+and body text needs to be about 150% for wider line-spacing
 
 Font family sans for headings
 font-family: 'Limelight', sans-serif;
@@ -36,7 +38,6 @@ Tried to include Brittanic Bold 28 May 2016
 	
 	font-family:"Britannic Bold";
 
-	color: #000000;
 */
 
 
@@ -60,14 +61,14 @@ h1,h2 {
 	text-align: center;
 	margin: 0; padding: 5;
 	font-family: 'Limelight', sans-serif;
-	font: 14px/180% 
+	font: 14px/220% 
 }
 
 h3 {
 	text-align: left;
 	margin: 0; padding: 3;
 	font-family: 'Limelight', sans-serif;
-	font: 12px/150% 
+	font: 12px/180% 
 }
 
 
