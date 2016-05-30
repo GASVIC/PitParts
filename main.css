@@ -6,7 +6,7 @@
 
 body {
 	margin: 15px; padding: 10px;
-	background-color: black;
+	/* background-color: black; */
 	font: 16px/130% "Tahoma" "Helvetica"  sans-serif;
 	background: #66cc97; /* soft green with 60% white */
 
@@ -22,7 +22,7 @@ font-family:"Britannic Bold";
 font: 16px/125% "Helvetica" "Verdana" "Liberation Sans" sans-serif
 Tried to include Brittanic Bold 28 May 2016
 
-	font: 16px/130% "Tahoma" "Helvetica"  sans-serif
+	font: 16px/130% "Tahoma" "Helvetica"  sans-serif;
 
 	font-family: 'Playfair Display SC', serif;
 
@@ -36,9 +36,9 @@ Tried to include Brittanic Bold 28 May 2016
 	
 	font-family:"Britannic Bold";
 
+	color: #000000;
 */
 
-	color: #000000;
 
 }
 
