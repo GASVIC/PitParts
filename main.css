@@ -6,8 +6,8 @@
 
 body {
 	margin: 15px; padding: 10px;
-	/* background-color: black; */
-	font: 14px/180% "Tahoma" "Helvetica"  sans-serif;
+	background-color: black;
+	font: 14px/230% "Tahoma" "Helvetica"  sans-serif;
 	background: #66cc97; /* soft green with 60% white */
 
 	
@@ -89,7 +89,7 @@ line-height: 60px;
 /* background: #D2141E;  Red for Christmas 2015 */ 
 /* background: #700000;  /* Burgundy */
 padding-bottom: 5px;
-font-size: 1.25em;
+font-size: 1.2em;
 border-bottom: navy solid medium; 
 
 }
