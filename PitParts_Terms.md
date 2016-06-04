@@ -30,14 +30,13 @@ The Hire Agreement is to be read in conjunction with these Terms and Conditions.
 
 1. MARKING OF ORCHESTRAL PARTS: Use ONLY soft lead pencils and erase with Staedtler Mars-Plastic eraser, or equivalent. ALL MARKS MADE BY THE HIRER MUST BE REMOVED BEFORE THE MUSIC IS RETURNED, and if deemed necessary be PIT PARTS a cleaning charge will be made after inspection of the returned Parts.
 
-1. Parts should be returned within seven (7) days of the completion of the performance by INSURED POST (AUD$1000) and be packed securely against damage in transit. Late returns will incur a further charge of AUD$25 per week or part thereof. FAILURE TO COMPLY with this condition (7) will be deemed to be a breach of Agreement
-and the deposit held by PIT PARTS on behalf of the Hirer will be forfeited.
+1. Parts should be returned within seven (7) days of the completion of the performance by INSURED POST (AUD$1000) and be packed securely against damage in transit. Late returns will incur a further charge of AUD$25 per week or part thereof. 
 
 1. The hire account will be forwarded after the conclusion of the performance and must be paid within seven (7) days.
 
 1. Should the production be cancelled after the Parts have been supplied, notification of the cancellation must be received in writing, by PIT PARTS, before the first scheduled performance, and in this instance the cost of forward and return freight will be charged.
 
-1. The programme for performance (for which the Parts are hired) must include the following:
+1. The programme for performance/s for which the Parts are hired must include the following acknowledgement:
 
 ```
 >    Original G & S Orchestral Parts for The D'Oyly Carte Edition
@@ -48,4 +47,4 @@ and the deposit held by PIT PARTS on behalf of the Hirer will be forfeited.
 ```
 
 This is to be printed in close proximity to the orchestral acknowledgments or Musical Items. A copy of the programme
-must be forwarded immediately to the PIT PARTS agency.
+must be forwarded immediately to PIT PARTS.
