@@ -6,6 +6,8 @@ title: Pit Parts Australia - Sullivan's Orchestra
 
 ### Sullivan's Original Orchestrations
 
+This page is best viewed on a large screen to embrace the full extent of Sullivan's selections 
+
 |:----------------|:----------:|:--------:|:--------:|:---:|:---:|:--:|:------:|:-------:|:-----:|:-----:|:---------:|:--------:|:--------------:|
 |Opera            |Lead Violin |1st Violin|2nd Violin|Viola|Cello|Bass|Flute   |Piccolo  |Bassoon|Horn F |Trumpet A&Bb|Trombone |Percussion inc Timpani(2)|
 |-----------------|:------------:|:----------:|:----------:|:-----:|:-----:|:----:|:--------:|:---------:|:-------:|:-------:|:-----------:|:----------:|:----------------:|
