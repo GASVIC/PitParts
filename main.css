@@ -161,7 +161,7 @@ a:active {
 .menu li li {
    width: 100%;   /* each item full width */
    border: none;  /* remove blue line border of desktop menu */ 
-
+}
   
 /* End Mobile menu stuff  */
 
@@ -187,3 +187,4 @@ img {
 }
 
 a { color: #0F0FFF; }
+}
