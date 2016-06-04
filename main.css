@@ -149,18 +149,21 @@ a:active {
 
 /* End of link stuff */
  
-/* begin mobile menu stuff 
+/* begin mobile menu stuff */
 
 @media screen and (max-width: 480px) {
 
+.menu {
+      background: #ffff99; /* same as desktop */
+   }
+}
+
 .menu li li {
-   width: 100%;
-   border: none;
-   border-top: 1px solid #fff;
-   
-}   
-   
- End Mobile menu stuff
+   width: 100%;   /* each item full width */
+   border: none;  /* remove blue line border of desktop menu */ 
+
+  
+/* End Mobile menu stuff  */
 
 /* footer stuff for eventual W3C certification */
 
