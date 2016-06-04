@@ -82,7 +82,7 @@ h4 {
 #menu {
 height: 40px;
 line-height: 40px;
-Position: fixed; /* to keep menu clear of text on small screens */
+
 /* background: #0000FF;  deep blue from PWMU site */
 /* background: #431a54;  purple as shadow of cross */
 /* background: #18596B;  grey-green of welcome banner */
@@ -90,7 +90,7 @@ Position: fixed; /* to keep menu clear of text on small screens */
 /* background: #700000;  /* Burgundy */
 padding-bottom: 5px;
 font-size: 1em;
-/* border-bottom: navy solid medium; */
+border-bottom: navy solid medium;
 
 }
 #menu ul {
@@ -156,7 +156,6 @@ a:active {
 
 .menu {
       background: #ffff99; /* same as desktop */
-   }
 }
 
 .menu li li {
