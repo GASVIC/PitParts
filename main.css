@@ -99,7 +99,8 @@ list-style-type: none;
 #menu ul li {
 background: #ffff99; /* soft sand 80% white base colour all menus */
 display: inline;
-float: left;
+text-align: center;
+
 }
 #menu ul li a {
 padding: 0 10px;

@@ -28,7 +28,7 @@ The Hire Agreement is to be read in conjunction with these Terms and Conditions.
 
     * Should any Part be lost or damaged, the cost of its replacement will be the responsibility of the Hirer, or the person who has lost the Part.
 
-1. MARKING OF ORCHESTRAL PARTS: Use ONLY soft lead pencils and erase with Staedtler Mars-Plastic eraser, or equivalent. **ALL MARKS MADE BY THE HIRER MUST BE REMOVED BEFORE THE MUSIC IS RETURNED,** and if deemed necessary be PIT PARTS a cleaning charge will be made after inspection of the returned Parts.
+1. MARKING OF ORCHESTRAL PARTS: Use ONLY soft lead pencils and erase with Staedtler Mars-Plastic eraser, or equivalent. **ALL MARKS MADE BY THE HIRER MUST BE REMOVED BEFORE THE MUSIC IS RETURNED,** and if deemed necessary by PIT PARTS a cleaning charge will be made after inspection of the returned Parts.
 
 1. Parts should be returned within seven (7) days of the completion of the performance by INSURED POST (AUD$1000) and be packed securely against damage in transit. Late returns will incur a further charge of AUD$25 per week or part thereof. 
 
