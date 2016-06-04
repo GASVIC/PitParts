@@ -7,7 +7,7 @@
 body {
 	margin: 15px; padding: 10px;
 	background-color: black;
-	font: 14px/230% "Tahoma" "Helvetica"  sans-serif;
+	font: 16px/230% "Tahoma" "Helvetica"  sans-serif;
 	background: #66cc97; /* soft green with 60% white */
 
 	
@@ -20,7 +20,7 @@ and body text needs to be about 150% for wider line-spacing
 
 Font family sans for headings
 font-family: 'Limelight', sans-serif;
-font-family:"Britannic Bold";
+font-family:"Britannic Bold" (not available);
 font: 16px/125% "Helvetica" "Verdana" "Liberation Sans" sans-serif
 Tried to include Brittanic Bold 28 May 2016
 
@@ -75,7 +75,7 @@ h4 {
 	text-align: left;
 	margin: 0; padding: 3;
 	font-family: 'Verdana' sans-serif;
-	font: 12px/125% 
+	font: 16px/125% 
 }
 
 /* Static Menu for desktop only */
@@ -113,12 +113,13 @@ text-decoration: underline;
 }
 #menu ul li a:visited {
 color: #FF00FF;
-text-decoration: underline;
+text-decoration: none;
 }
 
 #menu .current {
     font-size: 1em;
 	background: #66cc97; /* soft green with 60% white: active page matches main background */
+	text-decoration: bold;
 }
 
 /* End static menu for desktop */
