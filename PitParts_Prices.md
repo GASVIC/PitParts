@@ -18,9 +18,10 @@ Prices are subject to alteration without notice.
 * Music and all material must be returned within seven (7) days of the last performance.
 
 ### TRIAL BY JURY
-This opera only is charged at 
+This opera only is charged at special rates:
+
 * 50% of the above rate = AUD35 per week (minimum AUD140)
-* Thereafter reduces to AUD10 per week or part thereof.  
+* Thereafter reduces to AUD12 per week or part thereof.  
 
 ### HIRE FEE ACCOUNT:
 * Forwarded toward the end of the hire period
