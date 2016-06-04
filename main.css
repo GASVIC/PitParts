@@ -59,23 +59,22 @@ td, th {
 
 h1,h2 {
 	text-align: center;
-	margin: 0; padding: 5;
+	margin: 0; padding: 5px;
 	font-family: 'Limelight', sans-serif;
 	font: 20px/250% 
 }
 
 h3 {
 	text-align: left;
-	margin: 0; padding: 3;
+	margin: 0; padding: 3px;
 	font-family: 'Limelight', sans-serif;
 	font: 18px/200% 
 }
 
 h4 {
 	text-align: left;
-	margin: 0; padding: 3;
-	font-family: 'Verdana' sans-serif;
-	font: 16px/125% 
+	margin: 0; padding: 3px;
+	font: 16px/125% 'Verdana' sans-serif;
 }
 
 /* Static Menu for desktop only */
@@ -119,7 +118,6 @@ text-decoration: none;
 #menu .current {
     font-size: 1em;
 	background: #66cc97; /* soft green with 60% white: active page matches main background */
-	text-decoration: bold;
 }
 
 /* End static menu for desktop */
@@ -129,13 +127,13 @@ text-decoration: none;
 /* unvisited link */
 a:link {
     /* color: #0005F7; */
-	color; #0000EE;
+	color: #0000EE;
 }
 
 /* visited link */
 a:visited {
     /* color: #FF00FF; */
-	color; #551A8B;
+	color: #551A8B;
 }
 
 /* mouse over link */
@@ -146,7 +144,6 @@ a:hover {
 /* selected link */
 a:active {
 	background: #66cc97; /* soft green with 60% white: active page merges to bg */
-	text-decoration: bold;
 }
 
 /* End of link stuff */
