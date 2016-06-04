@@ -149,7 +149,18 @@ a:active {
 
 /* End of link stuff */
  
+/* begin mobile menu stuff */
 
+@media screen and (max-width: 480px) {
+
+.menu li li {
+   width: 100%;
+   border: none;
+   border-top: 1px solid #fff;
+   
+}   
+   
+/* End Mobile menu stuff
 
 /* footer stuff for eventual W3C certification */
 
