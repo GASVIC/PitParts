@@ -82,6 +82,7 @@ h4 {
 #menu {
 height: 40px;
 line-height: 40px;
+Position: fixed; /* to keep menu clear of text on small screens */
 /* background: #0000FF;  deep blue from PWMU site */
 /* background: #431a54;  purple as shadow of cross */
 /* background: #18596B;  grey-green of welcome banner */
