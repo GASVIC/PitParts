@@ -182,6 +182,7 @@ font-size: 1em;
 
 #footer {
 text-align: center;
+border: 2px solid;
 border-top: navy solid medium; 
 width: 100%;
 /* width: 960px; */
