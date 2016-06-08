@@ -184,8 +184,8 @@ font-size: 1em;
 text-align: center;
 border: 2px solid;
 border-top: navy solid medium; 
-width: 80%;
-/* width: 960px; */
+margin; 0 auto;
+/* width: 80%; width: 960px; */
 color: #666;
 font-size: 1em; 
 }
