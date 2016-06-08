@@ -165,6 +165,19 @@ a:active {
   
 /* End Mobile menu stuff  */
 
+/* 
+footer stuff for W3C certification copied to this Div 
+as it didn't work in footer
+*/
+
+#bottom {
+text-align: center;
+border-top: navy solid medium; 
+width: 100%;
+font-size: 1em; 
+}
+
+
 /* footer stuff for W3C certification */
 
 #footer {
