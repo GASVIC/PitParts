@@ -165,29 +165,25 @@ a:active {
   
 /* End Mobile menu stuff  */
 
-/* 
-footer stuff for W3C certification copied to this Div 
-as it didn't work in footer
-*/
 
-#bottom {
-text-align: center;
-border-top: navy solid medium; 
-width: 100%;
-font-size: 1em; 
-}
+
+#bottom { }
 
 
 /* footer stuff for W3C certification */
 
 #footer {
 text-align: center;
-border: 2px solid;
 border-top: navy solid medium; 
-margin; 0 auto;
-/* width: 80%; width: 960px; */
+/* width: 100%; tried 80%; width: 960px; */
 color: #666;
 font-size: 1em; 
+
+	height:20px;
+    width:100%;
+    margin: auto;
+    padding:10px;
+
 }
 #footer  a { color: #000000; }
  
