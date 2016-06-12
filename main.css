@@ -82,6 +82,7 @@ h4 {
 #menu {
 height: 40px;
 line-height: 40px;
+display: block;
 
 /* background: #0000FF;  deep blue from PWMU site */
 /* background: #431a54;  purple as shadow of cross */
