@@ -101,9 +101,11 @@ list-style-type: none;
 background: #ffff99; /* soft sand 80% white base colour all menus */
 /*
 display: inline;
-display: block;
 */
+display: block;
+/*
 display: inline-block;
+*/
 text-align: center;
 
 }
