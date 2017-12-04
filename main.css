@@ -157,6 +157,7 @@ a:active {
 
 .menu {
       background: #ffff99; /* same as desktop */
+	  text-align: center
 }
 
 .menu li li {
